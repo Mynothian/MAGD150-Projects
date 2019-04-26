@@ -44,7 +44,7 @@ void tv(){
   //radio wave booglaoo
   fill(158, 158, 158);
   rect(width / 2 + 120, (height / 3) * 2 - 30, (width / 9), (height / 7), 5);
-  //panel pert 3
+  //panel part 3
   //processing fills me with glee
   fill(62, 39, 35);
   rect(width / 2 + 100, (height / 3) * 2 - 30, (width / 31), (height / 8), 5);
