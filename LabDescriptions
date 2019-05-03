@@ -1,0 +1,20 @@
+### Project Descriptions
+
+1. Lab 1: Static Composition in Black and White
+    Desc: Basic depiction of a rocketship in space, using ellipses, lines, rects, triangles, and points
+    
+2. Lab 2: Color Composition
+    Desc: Depiction of a yellow balloon on a green background, using colorModes, ellipses, triangles, rects, and fills
+    
+3. Lab 3: Math
+    Desc: Draws a line from the center of the panel to the mouse location, RGB values are randomly adjusted to change line color
+    
+4. Lab 4: Dynamism
+    Desc: Draws a fish at the mouse location, which changes direct based on mouse movement. Fish and background colors can be changed
+          by user interaction.
+          
+5. Lab 5: Intersections
+    Desc: An interactive TV, that can be powered on, and can be switched between different channels by clickable buttons.
+    
+8. Lab 8: Text
+    Desc: A scrolling series of nihilistic messages, including some phrases from John Carpenter's 1988 film, 'They Live'
